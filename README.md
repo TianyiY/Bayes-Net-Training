@@ -1,5 +1,5 @@
-# Bayes-Net-Training
-Train text by Bayes Net
+Language Processing
+- Bayes Net
 
 Required package:
 - textblob
